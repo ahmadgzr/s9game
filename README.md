@@ -5,7 +5,7 @@ Are you excited to play S9 Game but can't find it on the app store? Don’t worr
 <form action="https://lp.s9.game/m/share?channel=0&userId=1408629&shareCode=1408629&bindCode=100">
     <input type="submit" value="Download S9 Game" />
 </form>
-<be>
+<br>
 <a href="https://s9game.club">Visit S9 Game Website</a>
 
 # What is S9 Game?
