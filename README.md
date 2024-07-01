@@ -2,6 +2,10 @@
 
 Are you excited to play S9 Game but can't find it on the app store? Don’t worry! You can still enjoy the game by downloading the S9 Game APK. An APK is a file format used to install apps on Android devices. Here’s a simple guide to help you download and install the S9 Game APK.
 
+<form action="https://lp.s9.game/m/share?channel=0&userId=1408629&shareCode=1408629&bindCode=100">
+    <input type="submit" value="Download S9 Game" />
+</form>
+
 <a href="https://lp.s9.game/m/share?channel=0&userId=1408629&shareCode=1408629&bindCode=100">Download S9 Game</a>
 
 # What is S9 Game?
